@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1641233115 source:c:\users\48788\onedrive\pulpit\nauka\wdp\projekt\szyfr przestawieniowy\main.cpp
+	<iostream>
+	<string>
+
+1643123583 source:c:\users\48788\onedrive\pulpit\nauka\wdpprojekt\szyfr przestawieniowy\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
